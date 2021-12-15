@@ -1641,7 +1641,7 @@
     "The deposit amount will adjust into user account once you approved.": "O valor do depósito será ajustado na conta do usuário assim que você aprovar.",
     "You can not undo this action once you you confirm and approved.": "Você não pode desfazer esta ação depois de confirmar e aprovar",
     "Commission ID# :orderid": "Comissão ID# :orderid",
-    "The commission amount of :amount add into :account.": "O valor da comissão d :amount adicionar em :account.",
+    "The commission amount of :amount add into :account.": "O valor da comissão de :amount adicionar em :account.",
     "Commission Amount": "Valor da Comissão",
     "The amount will receive user.": "A quantidade receberá do usuário.",
     "Commission For": "Comissão Para",
@@ -1743,6 +1743,7 @@
     "Mark as Active": "Marcar como ativo",
     "Apply": "Aplicar",
     "Filter Users": "Filtrar usuários",
+<<<<<<< Updated upstream
     "Have Balance": "Tenha saldo",
     "KYC Verified": "KYC Verificado",
     "Role": "Função",
@@ -1751,6 +1752,16 @@
     "Search by user or email": "Pesquisa por usuário ou e-mail",
     "Account Balance": "Saldo da conta",
     "Amount without locked": "Quantidade sem bloqueio",
+=======
+    "Have Balance": "Ter Saldo",
+    "KYC Verified": "KYC Verified",
+    "Role": "Role",
+    "Any Role": "Any Role",
+    "Deleted": "Deleted",
+    "Search by user or email": "Search by user or email",
+    "Account Balance": "Account Balance",
+    "Amount without locked": "Amount without locked",
+>>>>>>> Stashed changes
     "Super Admin": "Super Admin",
     "Not verified yet": "Ainda não verificado",
     "Resend Verification": "Reenviar verificação",
